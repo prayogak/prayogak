@@ -1,10 +1,24 @@
-## Hei, there 👋
+## Hei, kamu 👋
 
 ![Thubnel](R56WxaH99D3D73688Fnx1GzG8.jpeg)
 
 Halo! Terima kasih telah berkunjung ke akun ini. Saya ingin memberitahukan bahwa akun ini digunakan semata sebagai hiburan dan tempat menyimpan kode aslinya, dan kode yang saya modifikasi di Replit. Saya tertarik untuk mengeksplorasi berbagai kode dari orang lain yang menurut saya keren atau unik. Eksperimen-eksperimen ini saya simpan di akun Replit dan saya merahasiakan akun Replit saya.
 
 Terima kasih atas pengertian dan kunjungannya!
+
+```python
+from github.profile import ReadMe
+class laskar ( ReadMe ) :
+    def __init__ ( self ) :
+        self.username  = "otakdark"
+        self.location  = "Indonesia"
+        self.x   = "otakdark"
+        self.languages = [ "PHP", "Kotlin", "JavaScript", "C#", "Go", "Java", "Python", "Shell", "Brainfuck", "Verilog" ]
+    def about ( self ) :
+        print( f"Hi, I'm {self.username}. Contact me at {self.x}" )
+me = laskar()
+me.about()
+```
 
 ### 🍿 Sudah mampir kan!
 
@@ -14,7 +28,7 @@ Terima kasih atas kunjungannya dan sampai jumpa di konten berikutnya!
 
 ---
 
-<sub>🤫 Sst... Jika mau, bolehlah ikutin saya secara diam-diam ya, jangan ceritakan ke siapapun</sub>
+<sub>🤫 Sst... Bolehlah follow saya... </sub>
 
 <!--
 **otakdark/otakdark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

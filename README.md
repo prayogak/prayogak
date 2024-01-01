@@ -24,11 +24,11 @@ me.about()
 
 Sudah berani mampir ke profil saya? Jangan lupa untuk follow saya! Dengan mengikuti, Anda mendukung saya dan apa yang saya adaptasi dari kode keren dan unik yang telah dibuat oleh orang lain.
 
-Terima kasih atas kunjungannya dan sampai jumpa di konten berikutnya!
+Sampai jumpa dan terimakasih!
 
 ---
 
-<sub>🤫 Sst... Bolehlah follow saya... </sub>
+<sub>Code by ./Laskar</sub>
 
 <!--
 **otakdark/otakdark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

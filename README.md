@@ -12,7 +12,7 @@ class laskar ( ReadMe ) :
     def __init__ ( self ) :
         self.username  = "prayogak"
         self.location  = "Indonesia"
-        self.x   = "otakdark"
+        self.x   = "prayoggak"
         self.languages = [ "PHP", "Kotlin", "JavaScript", "C#", "Go", "Java", "Python", "Shell", "Brainfuck", "Verilog" ]
     def about ( self ) :
         print( f"Hi, I'm {self.username}. Contact me at {self.x}" )
@@ -28,7 +28,7 @@ Sampai jumpa dan terimakasih!
 
 ---
 
-<sub>Code by ./Laskar</sub>
+<sub>Code by ./Yogak</sub>
 
 <!--
 **otakdark/otakdark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

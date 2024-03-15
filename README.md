@@ -10,7 +10,7 @@ Terima kasih atas pengertian dan kunjungannya!
 from github.profile import ReadMe
 class laskar ( ReadMe ) :
     def __init__ ( self ) :
-        self.username  = "otakdark"
+        self.username  = "prayogak"
         self.location  = "Indonesia"
         self.x   = "otakdark"
         self.languages = [ "PHP", "Kotlin", "JavaScript", "C#", "Go", "Java", "Python", "Shell", "Brainfuck", "Verilog" ]

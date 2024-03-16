@@ -12,7 +12,7 @@ class laskar ( ReadMe ) :
     def __init__ ( self ) :
         self.username  = "prayogak"
         self.location  = "Indonesia"
-        self.x   = "prayogak"
+        self.x   = "prayoggak"
         self.languages = [ "PHP", "Kotlin", "JavaScript", "C#", "Go", "Java", "Python", "Shell", "Brainfuck", "Verilog" ]
     def about ( self ) :
         print( f"Hi, I'm {self.username}. Contact me at {self.x}" )

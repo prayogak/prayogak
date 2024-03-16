@@ -1,7 +1,5 @@
 ## Hei, kamu 👋
 
-![Thubnel](R56WxaH99D3D73688Fnx1GzG8.jpeg)
-
 Akun ini sebagai Web Mirror Archive!
 
 Terima kasih sudah berkunjungan!

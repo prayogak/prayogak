@@ -13,7 +13,7 @@ class yogak ( README ) :
         self.x  = "prayoggak"
         self.languages = [ "PHP", "Kotlin", "JavaScript", "C#", "Go", "Java", "Python", "Shell", "Brainfuck", "Verilog" ]
     def about ( self ) :
-        print( f"Hi, I'm {self.username}. Contact me at {self.x}" )
+        print( "Hi, I'm {self.username}. Contact me at {self.x}" )
 me = yogak()
 me.about()
 ```

@@ -2,9 +2,9 @@
 
 ![Thubnel](R56WxaH99D3D73688Fnx1GzG8.jpeg)
 
-Halo! Terima kasih telah berkunjung ke akun ini. Saya ingin memberitahukan bahwa akun ini digunakan semata sebagai hiburan dan tempat menyimpan kode aslinya, dan kode yang saya modifikasi di Replit. Saya tertarik untuk mengeksplorasi berbagai kode dari orang lain yang menurut saya keren atau unik. Eksperimen-eksperimen ini saya simpan di akun Replit dan saya merahasiakan akun Replit saya.
+Akun ini sebagai Web Mirror Archive!
 
-Terima kasih atas pengertian dan kunjungannya!
+Terima kasih sudah berkunjungan!
 
 ```python
 from github.profile import ReadMe
@@ -12,7 +12,7 @@ class laskar ( ReadMe ) :
     def __init__ ( self ) :
         self.username  = "prayogak"
         self.location  = "Indonesia"
-        self.x   = "prayoggak"
+        self.x   = "prayogak"
         self.languages = [ "PHP", "Kotlin", "JavaScript", "C#", "Go", "Java", "Python", "Shell", "Brainfuck", "Verilog" ]
     def about ( self ) :
         print( f"Hi, I'm {self.username}. Contact me at {self.x}" )

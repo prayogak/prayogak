@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<link rel="icon" type="image/gif" href="https://raw.githubusercontent.com/otakdark/otakdark/main/c0fe57565e30de034a8f52da8f7842d1.jpg">
+<link rel="icon" type="image/gif" href="https://raw.githubusercontent.com/prayogak/prayogak/main/asets/-y16mkx.jpg">
 <meta name="theme-color" content="#1A1C1F">
 <title>RansomWeb</title>
 <style type="text/css">

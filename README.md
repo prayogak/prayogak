@@ -2,7 +2,7 @@
 
 Akun ini sebagai Web Mirror Archive!
 
-Terima kasih sudah berkunjungan!
+Terima kasih sudah berkunjung!
 
 ```python
 from github.profile import README

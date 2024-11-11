@@ -33,7 +33,7 @@ me.about()
  <summary><b>Look At Here</b></summary>
  
 ### 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/otak.dark?igsh=ODlteDI2aWd3NTA0)
+[![Tiktok](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/otak.dark?igsh=ODlteDI2aWd3NTA0)
 
 </details>
 

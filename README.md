@@ -10,7 +10,7 @@ class yogak ( README ) :
     def __init__ ( self ) :
         self.username  = "prayogak"
         self.location  = "Indonesia"
-        self.x  = "prayoggak"
+        self.x  = "y00gak"
         self.languages = [ "PHP", "Kotlin", "JavaScript", "C#", "Go", "Java", "Python", "Shell", "Brainfuck", "Verilog" ]
     def about ( self ) :
         print( "Hi, I'm {self.username}. Contact me at {self.x}" )
